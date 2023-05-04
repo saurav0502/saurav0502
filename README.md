@@ -1,4 +1,3 @@
-[![MasterHead](https://cdn.dribbble.com/users/904433/screenshots/3304535/animation.gif)]
 <h1 align="center">Hi 👋, I'm Saurav Sagar Pandey</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.caxsol.com/assets/img/data-analysis.gif">
